@@ -6,7 +6,6 @@ module.exports = {
   ],
   theme: {
     colors:{
-      'y':'#FAFF10'
     },
     fontFamily: {
     },
