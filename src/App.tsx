@@ -5,9 +5,10 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-   <>
-      <div className='w-96 h-36 bg-red-300'></div>
-   </>
+    <div className='w-full min-h-screen bg-y'>
+      <h1>WELCOME TO SHOPPERS</h1>
+      
+    </div>
   )
 }
 
